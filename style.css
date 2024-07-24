@@ -20,7 +20,7 @@ header p {
 }
 
 header button {
-    background-color: #5a9f50;
+    background-color: #faffce;
     color: white;
     border: none;
     padding: 10px 20px;
@@ -30,7 +30,7 @@ header button {
 }
 
 header button:hover {
-    background-color: #488f39;
+    background-color: #feffbf;
 }
 
 main {
