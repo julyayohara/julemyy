@@ -6,7 +6,7 @@ body {
 
 header {
     background-color: #ffeec8;
-    color: rgb(148, 190, 139);
+    color: #96bf8c;
     text-align: center;
     padding: 20px;
 }
@@ -21,7 +21,7 @@ header p {
 
 header button {
     background-color: #faffce;
-    color: white;
+    color: #a3d191f5;
     border: none;
     padding: 10px 20px;
     cursor: pointer;
