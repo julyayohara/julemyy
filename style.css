@@ -51,12 +51,12 @@ section {
 }
 
 .recurso img {
-    width: 100px;
+    width: 50px;
     height: 100px;
     object-fit: cover;
 }
 
 section img {
-    width: 100%;
+    width: 50%;
     height: auto;
 }
